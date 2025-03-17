@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.0/gsap.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Time Travel Map</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="timeline-container">
+    <h1>Time Travel Map By Muhammad Hassaan Chaudhry</h1>
+    <div id="timeline">
+      <svg id="zigzag-lines" width="100%" height="5000px"></svg> <!-- Increased height for better fit -->
+    </div>
+    <div id="event-detail" class="hidden">
+      <img id="event-image" src="" alt="Event Image">
+      <h2 id="event-title"></h2>
+      <p id="event-description"></p>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

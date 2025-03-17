@@ -1,0 +1,278 @@
+[
+  {
+    "year": "1979",
+    "title": "Iranian Revolution",
+    "description": "The Iranian Revolution overthrows the Pahlavi monarchy and establishes an Islamic republic.",
+    "image": "data/assets/images/iran_revolution.jpg"
+  },
+  {
+    "year": "1980",
+    "title": "Mount St. Helens Eruption",
+    "description": "The eruption of Mount St. Helens in Washington, USA, causes widespread destruction.",
+    "image": "data/assets/images/mount_st_helens.jpg"
+  },
+  {
+    "year": "1981",
+    "title": "Assassination of John Lennon",
+    "description": "John Lennon, former Beatle, is assassinated outside his New York City apartment.",
+    "image": "data/assets/images/john_lennon.jpg"
+  },
+  {
+    "year": "1982",
+    "title": "Falklands War",
+    "description": "A war between the United Kingdom and Argentina over the disputed Falkland Islands.",
+    "image": "data/assets/images/falklands_war.jpg"
+  },
+  {
+    "year": "1983",
+    "title": "Beirut Barracks Bombing",
+    "description": "A terrorist bombing kills 241 American servicemen in Lebanon.",
+    "image": "data/assets/images/beirut_barracks.jpg"
+  },
+  {
+    "year": "1984",
+    "title": "Bhopal Gas Tragedy",
+    "description": "A gas leak from a Union Carbide plant in India kills thousands of people.",
+    "image": "data/assets/images/bhopal_tragedy.jpg"
+  },
+  {
+    "year": "1985",
+    "title": "Live Aid Concert",
+    "description": "A global benefit concert to raise funds for Ethiopian famine relief.",
+    "image": "data/assets/images/live_aid.jpg"
+  },
+  {
+    "year": "1986",
+    "title": "Chernobyl Nuclear Disaster",
+    "description": "A nuclear disaster in Chernobyl, Ukraine, leads to the release of radioactive material.",
+    "image": "data/assets/images/chernobyl.jpg"
+  },
+  {
+    "year": "1987",
+    "title": "Black Monday",
+    "description": "The global stock markets crash, with the Dow Jones Industrial Average losing 22%.",
+    "image": "data/assets/images/black_monday.jpg"
+  },
+  {
+    "year": "1988",
+    "title": "Pan Am Flight 103 Bombing",
+    "description": "A terrorist bombing of a Pan Am flight over Lockerbie, Scotland, kills 270 people.",
+    "image": "data/assets/images/pan_am_103.jpg"
+  },
+  {
+    "year": "1989",
+    "title": "Fall of Berlin Wall",
+    "description": "The Berlin Wall falls, symbolizing the end of the Cold War and the reunification of Germany.",
+    "image": "data/assets/images/berlin_wall.jpg"
+  },
+  {
+    "year": "1990",
+    "title": "Nelson Mandela Released",
+    "description": "Nelson Mandela is released from prison, marking the beginning of the end of apartheid in South Africa.",
+    "image": "data/assets/images/nelson_mandela.jpg"
+  },
+  {
+    "year": "1991",
+    "title": "Dissolution of the Soviet Union",
+    "description": "The Soviet Union dissolves into 15 independent republics, marking the end of the Cold War.",
+    "image": "data/assets/images/soviet_union.jpg"
+  },
+  {
+    "year": "1992",
+    "title": "Rodney King Riots",
+    "description": "Riots erupt in Los Angeles after the acquittal of police officers involved in the beating of Rodney King.",
+    "image": "data/assets/images/rodney_king_riots.jpg"
+  },
+  {
+    "year": "1993",
+    "title": "World Trade Center Bombing",
+    "description": "A bombing at the World Trade Center in New York City kills six people and injures over a thousand.",
+    "image": "data/assets/images/wtc_bombing.jpg"
+  },
+  {
+    "year": "1994",
+    "title": "Rwandan Genocide",
+    "description": "A genocide in Rwanda leads to the deaths of an estimated 800,000 people.",
+    "image": "data/assets/images/rwandan_genocide.jpg"
+  },
+  {
+    "year": "1995",
+    "title": "Oklahoma City Bombing",
+    "description": "A truck bomb kills 168 people in Oklahoma City, the deadliest domestic terrorist attack in U.S. history.",
+    "image": "data/assets/images/oklahoma_bombing.jpg"
+  },
+  {
+    "year": "1996",
+    "title": "Tupac Shakur Murder",
+    "description": "Rap artist Tupac Shakur is fatally shot in a drive-by shooting in Las Vegas.",
+    "image": "data/assets/images/tupac_shakur.jpg"
+  },
+  {
+    "year": "1997",
+    "title": "Princess Diana Dies in Car Crash",
+    "description": "Princess Diana dies in a car crash in Paris, sparking global mourning.",
+    "image": "data/assets/images/princess_diana.jpg"
+  },
+  {
+    "year": "1998",
+    "title": "Google Founded",
+    "description": "Google is founded by Larry Page and Sergey Brin, revolutionizing internet search.",
+    "image": "data/assets/images/google_foundation.jpg"
+  },
+  {
+    "year": "1999",
+    "title": "Columbine High School Shooting",
+    "description": "A school shooting at Columbine High School in Colorado leaves 15 people dead.",
+    "image": "data/assets/images/columbine_shooting.jpg"
+  },
+  {
+    "year": "2000",
+    "title": "Y2K Bug",
+    "description": "The Y2K bug raised concerns about computer systems failing at the turn of the millennium.",
+    "image": "data/assets/images/y2k_bug.jpg"
+  },
+  {
+    "year": "2001",
+    "title": "9/11 Attacks",
+    "description": "Terrorist attacks on the World Trade Center in New York City.",
+    "image": "data/assets/images/911_attacks.jpg"
+  },
+  {
+    "year": "2002",
+    "title": "Euro Introduced",
+    "description": "The Euro becomes the official currency of 12 European Union countries.",
+    "image": "data/assets/images/euro_introduction.jpg"
+  },
+  {
+    "year": "2003",
+    "title": "Iraq War Begins",
+    "description": "The United States and allies invade Iraq, beginning the Iraq War.",
+    "image": "data/assets/images/iraq_war.jpg"
+  },
+  {
+    "year": "2004",
+    "title": "Indian Ocean Tsunami",
+    "description": "A massive earthquake and tsunami strike countries around the Indian Ocean, killing over 230,000 people.",
+    "image": "data/assets/images/indian_ocean_tsunami.jpg"
+  },
+  {
+    "year": "2005",
+    "title": "Hurricane Katrina",
+    "description": "Hurricane Katrina devastates New Orleans, causing widespread flooding and damage.",
+    "image": "data/assets/images/hurricane_katrina.jpg"
+  },
+  {
+    "year": "2006",
+    "title": "Twitter Launched",
+    "description": "Twitter is launched, changing the landscape of social media.",
+    "image": "data/assets/images/twitter_launch.jpg"
+  },
+  {
+    "year": "2007",
+    "title": "Global Financial Crisis",
+    "description": "A global financial crisis begins, triggered by the collapse of Lehman Brothers.",
+    "image": "data/assets/images/global_financial_crisis.jpg"
+  },
+  {
+    "year": "2008",
+    "title": "Obama Elected President",
+    "description": "Barack Obama is elected as the first African-American president of the United States.",
+    "image": "data/assets/images/obama_election.jpg"
+  },
+  {
+    "year": "2009",
+    "title": "H1N1 Pandemic",
+    "description": "The H1N1 swine flu pandemic affects millions worldwide.",
+    "image": "data/assets/images/h1n1_pandemic.jpg"
+  },
+  {
+    "year": "2010",
+    "title": "Haiti Earthquake",
+    "description": "A devastating earthquake strikes Haiti, killing over 230,000 people.",
+    "image": "data/assets/images/haiti_earthquake.jpg"
+  },
+  {
+    "year": "2011",
+    "title": "Osama Bin Laden Killed",
+    "description": "U.S. Navy SEALs kill Osama bin Laden, the mastermind behind the 9/11 attacks.",
+    "image": "data/assets/images/osama_bin_laden.jpg"
+  },
+  {
+    "year": "2012",
+    "title": "Sandy Hook Elementary Shooting",
+    "description": "A mass shooting at Sandy Hook Elementary School in Connecticut kills 26 people.",
+    "image": "data/assets/images/sandy_hook_shooting.jpg"
+  },
+  {
+    "year": "2013",
+    "title": "Boston Marathon Bombing",
+    "description": "A bombing at the Boston Marathon kills three and injures hundreds.",
+    "image": "data/assets/images/boston_marathon_bombing.jpg"
+  },
+  {
+    "year": "2014",
+    "title": "Rise of ISIS",
+    "description": "ISIS gains power in Iraq and Syria, leading to widespread violence.",
+    "image": "data/assets/images/rise_of_isis.jpg"
+  },
+  {
+    "year": "2015",
+    "title": "Paris Climate Agreement",
+    "description": "Countries around the world sign the Paris Climate Agreement to combat climate change.",
+    "image": "data/assets/images/paris_climate_agreement.jpg"
+  },
+  {
+    "year": "2016",
+    "title": "Brexit Vote",
+    "description": "The United Kingdom votes to leave the European Union, known as Brexit.",
+    "image": "data/assets/images/brexit_vote.jpg"
+  },
+  {
+    "year": "2017",
+    "title": "Me Too Movement",
+    "description": "The Me Too movement spreads, highlighting issues of sexual harassment and assault.",
+    "image": "data/assets/images/me_too_movement.jpg"
+  },
+  {
+    "year": "2018",
+    "title": "Global Youth Climate Strikes",
+    "description": "Young people around the world strike for action on climate change, inspired by Greta Thunberg.",
+    "image": "data/assets/images/climate_strikes.jpg"
+  },
+  {
+    "year": "2019",
+    "title": "Notre-Dame Cathedral Fire",
+    "description": "A fire severely damages the Notre-Dame Cathedral in Paris, France.",
+    "image": "data/assets/images/notre_dame_fire.jpg"
+  },
+  {
+    "year": "2020",
+    "title": "COVID-19 Pandemic",
+    "description": "The COVID-19 pandemic spreads worldwide, leading to lockdowns and millions of deaths.",
+    "image": "data/assets/images/covid_19.jpg"
+  },
+  {
+    "year": "2021",
+    "title": "US Capitol Riot",
+    "description": "Supporters of Donald Trump storm the U.S. Capitol in an attempt to overturn the 2020 election.",
+    "image": "data/assets/images/capitol_riot.jpg"
+  },
+  {
+    "year": "2022",
+    "title": "Russia Invades Ukraine",
+    "description": "Russia invades Ukraine, leading to a large-scale conflict in Eastern Europe.",
+    "image": "data/assets/images/russia_ukraine_war.jpg"
+  },
+  {
+    "year": "2023",
+    "title": "Global Climate Crisis",
+    "description": "The world faces increasingly extreme weather events due to climate change.",
+    "image": "data/assets/images/climate_crisis.jpg"
+  },
+  {
+    "year": "2024",
+    "title": "Advancements in AI",
+    "description": "AI technology continues to revolutionize industries, from healthcare to automation.",
+    "image": "data/assets/images/ai_advancements.jpg"
+  }
+]
